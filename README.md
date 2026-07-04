@@ -1,2 +1,5 @@
-# daca-portfolio
-Minu DACA (Data Analyst Career Accelerator) õppeprojektid ja portfoolio
+# \# DACA-portfolio
+
+Minu DACA (Data Analyst Career Accelerator) õppeprojektid ja portfolio
+Osaleja: Kaari Kressel
+
